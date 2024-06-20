@@ -1,5 +1,5 @@
 # Description
-This is a custom Kasumi Mai cursor I made for our the maifia leader. It is based on the new Ayuu Heart emote. Hope you enjoy.
+This is a custom Kasumi Mai cursor I made for our the maifia leader. Hope you enjoy.
 
 # Free to edit
 Feel free to edit/modify the cursor and you can even make a pull request or report bugs.
